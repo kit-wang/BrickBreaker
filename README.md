@@ -1,2 +1,2 @@
 # BrickBreaker
-The Classic Brick Breaker game, now made in Java!
+The classic Brick Breaker game, now made in Java!
